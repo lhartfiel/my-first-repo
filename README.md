@@ -5,3 +5,5 @@ README.md
 This is my first GitHub repo. Sweet! 
 
 It's part of a [HackerYou](http://hackeryou.com) bootcamp.
+
+This is a small change.
